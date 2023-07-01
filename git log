@@ -1,0 +1,16 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex c28b9e6..4945247 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -19,6 +19,11 @@[m
+             <p>Kawaii ipsum dolor sit amet, chibi neko-chan sugoi desu yo! Nya kawaii desu neko-chan, doki doki chibi-chan desu. Sugoi kawaii desu ne, neko-chan nya nya!</p>[m
+         </article>[m
+     </section>[m
+[32m+[m[41m    [m
+[32m+[m[32m    <footer>[m
+[32m+[m[32m        <p>Kawaii ipsum dolor sit amet, chibi neko-chan sugoi desu yo! Nya kawaii desu neko-chan, doki doki chibi-chan desu. Sugoi kawaii desu ne, neko-chan nya nya![m
+[32m+[m[32m        </p>[m
+[32m+[m[32m    </footer>[m
+ [m
+     [m
+ </body>[m
